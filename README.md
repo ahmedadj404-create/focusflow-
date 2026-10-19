@@ -1,5 +1,12 @@
 # FocusFlow — Daily Task Manager
 
+## Preview
+
+![FocusFlow website preview](focusflow-preview.png)
+
+[**Live Demo →**](https://ahmedadj404-create.github.io/focusflow/)
+
+
 **FocusFlow** is a simple, lightweight daily task manager built with HTML, CSS, and JavaScript. It helps users organize their daily tasks, track completed work, and stay focused on what matters.
 
 🌐 **Live Demo:** [Try FocusFlow](https://ahmedadj404-create.github.io/focusflow/)
